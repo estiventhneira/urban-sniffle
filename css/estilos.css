@@ -7,6 +7,19 @@ body {
     padding: 0;
 }
 
+#cabecera {
+    background-color: chartreuse;
+    font-family: arial;
+    color: cornsilk;
+    padding: 5px;
+    text-align: center;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+#tagline {
+    margin-left: 200px;
+}
 #container {
     width: 70%;
     padding: 1em;
@@ -17,4 +30,8 @@ body {
 
 #container h1{
     font-size: 30px;
+}
+
+#cabecera {
+    font-size: 20px;
 }
