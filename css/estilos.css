@@ -35,3 +35,7 @@ body {
 #cabecera {
     font-size: 20px;
 }
+
+#logo {
+    vertical-align: middle;
+}
