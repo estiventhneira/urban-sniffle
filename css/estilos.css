@@ -38,4 +38,8 @@ body {
 
 #logo {
     vertical-align: middle;
+#footer {
+    background: #777;
+    color: white;
+    text-align: center;
 }
